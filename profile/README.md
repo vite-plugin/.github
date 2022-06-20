@@ -1,4 +1,80 @@
-## Hi there 👋
+![黑发不知勤学早，白首方悔读书迟](https://github.com/vite-plugin/.github/blob/main/profile/svg-gif.svg)
+
+---
+
+<table>
+  <thead>
+    <th width="217">Name</th>
+    <th>Description</th>
+    <th>Npm</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/vite-plugin/vite-plugin-dynamic-import">vite-plugin-dynamic-import</a>
+      </td>
+      <td>
+        Enhance the builtin dynamic import plugin for Vite
+      </td>
+      <td>
+        <a href="https://npmjs.org/package/vite-plugin-dynamic-import">
+          <img src="https://img.shields.io/npm/v/vite-plugin-dynamic-import.svg">
+        </a>
+        <a href="https://npmjs.org/package/vite-plugin-dynamic-import">
+          <img src="https://img.shields.io/npm/dw/vite-plugin-dynamic-import.svg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vite-plugin/vite-plugin-commonjs">vite-plugin-commonjs</a>
+      </td>
+      <td>
+        A pure JavaScript implementation of vite-plugin-commonjs
+      </td>
+      <td>
+        <a href="https://npmjs.org/package/vite-plugin-commonjs">
+          <img src="https://img.shields.io/npm/v/vite-plugin-commonjs.svg">
+        </a>
+        <a href="https://npmjs.org/package/vite-plugin-commonjs">
+          <img src="https://img.shields.io/npm/dw/vite-plugin-commonjs.svg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vite-plugin/vite-plugin-resolve">vite-plugin-resolve</a>
+      </td>
+      <td>
+        Custom resolve code for Vite
+      </td>
+      <td>
+        <a href="https://npmjs.org/package/vite-plugin-resolve">
+          <img src="https://img.shields.io/npm/v/vite-plugin-resolve.svg">
+        </a>
+        <a href="https://npmjs.org/package/vite-plugin-resolve">
+          <img src="https://img.shields.io/npm/dw/vite-plugin-resolve.svg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vite-plugin/vite-plugin-optimizer">vite-plugin-optimizer</a>
+      </td>
+      <td>
+        Manually Pre-Bundling of Vite
+      </td>
+      <td>
+        <a href="https://npmjs.org/package/vite-plugin-optimizer">
+          <img src="https://img.shields.io/npm/v/vite-plugin-optimizer.svg">
+        </a>
+        <a href="https://npmjs.org/package/vite-plugin-optimizer">
+          <img src="https://img.shields.io/npm/dw/vite-plugin-optimizer.svg">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 
