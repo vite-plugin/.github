@@ -5,8 +5,10 @@
     viewBox='0 0 417 47'
     style='background-color: #00000000;'
     width='417px' height='47px'>
+
+    
     <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d0.end' dur='5000ms'
+        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='5000ms'
             values='m0,23.5 h0 ; m0,23.5 h417 ; m0,23.5 h0' keyTimes='0;0.8;1' />
     </path>
     <text font-family='"monospace", monospace' fill='#BD34FE' font-size='27'
@@ -16,4 +18,17 @@
             黑发不知勤学早，白首方悔读书迟
         </textPath>
     </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms'
+            values='m0,23.5 h0 ; m0,23.5 h417 ; m0,23.5 h0' keyTimes='0;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#BD34FE' font-size='27'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path1'>
+            走自己的路让别人说去吧
+        </textPath>
+    </text>
+
 </svg>
